@@ -1,4 +1,10 @@
-## Hi there 👋
+## 👋
+
+Focused on how individuals learn and lead.
+
+Workwarrior is a command line tool for personal productivity. Its syntax and scripts are a framework for integrating open source tools and extensions, starting with Taskwarrior, Timewarrior, JRNL and Hledger.
+
+
 
 <!--
 **peers8862/peers8862** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
